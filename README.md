@@ -1,2 +1,2 @@
 # Tala-website-clone
-https://haseeb-hummo.github.io/Tala-website-clone/
+https://haseeb-ksahh.github.io/Tala-website-clone/
